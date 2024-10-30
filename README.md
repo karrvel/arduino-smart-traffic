@@ -1,6 +1,9 @@
 # Smart Traffic Lights
 
-A simple Arduino project that simulates a traffic light system using LEDs. This project demonstrates the use of basic electronic components to control lights in a sequence, replicating a real-world traffic signal system.
+A simple Arduino project that simulates a traffic light system using LEDs.
+
+## Project Proposal
+[project_proposal.pdf](./project_proposal.pdf)
 
 ## Components
 
