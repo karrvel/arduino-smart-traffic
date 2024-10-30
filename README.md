@@ -6,13 +6,13 @@ A simple Arduino project that simulates a traffic light system using LEDs. This 
 
 Below is the bill of materials (BOM) for this project:
 
-| Name                   | Quantity | Component      |
-|:-----------------------|---------:|:---------------|
-| U1                     |        1 | Arduino Uno R3 |
-| D1, D5                 |        2 | Red LED        |
-| D2, D4                 |        2 | Yellow LED     |
-| D3, D6                 |        2 | Green LED      |
-| R1, R2, R3, R4, R5, R6 |        6 | 220 Ω Resistor |
+| Name                                              | Quantity | Component      |
+|:--------------------------------------------------|---------:|:---------------|
+| U1                                                |        1 | ESP32S         |
+| D5, D1, D8, D10                                   |        4 | Red LED        |
+| D4, D2, D7, D11                                   |        4 | Yellow LED     |
+| D6, D3, D9, D12                                   |        4 | Green LED      |
+| R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12 |       12 | 220 Ω Resistor |
 
 ## Circuit Design
 
