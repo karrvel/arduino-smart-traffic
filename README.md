@@ -11,11 +11,14 @@ Below is the bill of materials (BOM) for this project:
 
 | Name                                              | Quantity | Component      |
 |:--------------------------------------------------|---------:|:---------------|
-| U1                                                |        1 | ESP32S         |
-| D5, D1, D8, D10                                   |        4 | Red LED        |
-| D4, D2, D7, D11                                   |        4 | Yellow LED     |
-| D6, D3, D9, D12                                   |        4 | Green LED      |
-| R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12 |       12 | 220 Ω Resistor |
+| ESP32                                             |        1 | ESP32S         |
+| L1, L4                                            |        2 | Red LED        |
+| L2, L5                                            |        2 | Yellow LED     |
+| L3, L6                                            |        2 | Green LED      |
+| R                                                 |        6 | 220 Ω Resistor |
+| CAMERA #1, CAMERA #2                              |        2 | Web Camera     |
+| SERVER                                            |        1 | LAPTOP         |
+| USB #1, USB #2                                    |        2 | USB Hosts/Ports|
 
 ## Circuit Design
 
